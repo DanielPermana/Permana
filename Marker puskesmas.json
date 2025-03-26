@@ -1,0 +1,285 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Danurejan 1"
+        },
+        "geometry": {
+          "coordinates": [
+            110.37521930666605,
+            -7.794388148560384
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Tegalrejo"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36150151869806,
+            -7.772553817448677
+          ],
+          "type": "Point"
+        },
+        "id": 1
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Jetis"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36254199234037,
+            -7.783219731917238
+          ],
+          "type": "Point"
+        },
+        "id": 2
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Gondokusuman 1"
+        },
+        "geometry": {
+          "coordinates": [
+            110.38072524038986,
+            -7.793727160959734
+          ],
+          "type": "Point"
+        },
+        "id": 3
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Gondokusuman 2"
+        },
+        "geometry": {
+          "coordinates": [
+            110.371069104615,
+            -7.778649856721894
+          ],
+          "type": "Point"
+        },
+        "id": 4
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Danurejan 2"
+        },
+        "geometry": {
+          "coordinates": [
+            110.37778846203797,
+            -7.788639146396606
+          ],
+          "type": "Point"
+        },
+        "id": 5
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Gedongtengen"
+        },
+        "geometry": {
+          "coordinates": [
+            110.35770008749046,
+            -7.791213737815342
+          ],
+          "type": "Point"
+        },
+        "id": 6
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Wirobrajan"
+        },
+        "geometry": {
+          "coordinates": [
+            110.34805320383843,
+            -7.810629082500412
+          ],
+          "type": "Point"
+        },
+        "id": 7
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Ngampilan"
+        },
+        "geometry": {
+          "coordinates": [
+            110.35590044262537,
+            -7.8035724537859705
+          ],
+          "type": "Point"
+        },
+        "id": 8
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Mantrijeron"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36149322279951,
+            -7.820582881572198
+          ],
+          "type": "Point"
+        },
+        "id": 9
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Kraton"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36494392730131,
+            -7.80602968738328
+          ],
+          "type": "Point"
+        },
+        "id": 10
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Gondomanan"
+        },
+        "geometry": {
+          "coordinates": [
+            110.37055053497029,
+            -7.803960109071558
+          ],
+          "type": "Point"
+        },
+        "id": 11
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Pakualaman"
+        },
+        "geometry": {
+          "coordinates": [
+            110.37194666480062,
+            -7.799398557136017
+          ],
+          "type": "Point"
+        },
+        "id": 12
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Mergangsan"
+        },
+        "geometry": {
+          "coordinates": [
+            110.37528853675558,
+            -7.81019449242148
+          ],
+          "type": "Point"
+        },
+        "id": 13
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Umbulharjo 1"
+        },
+        "geometry": {
+          "coordinates": [
+            110.39477611424856,
+            -7.806255617392632
+          ],
+          "type": "Point"
+        },
+        "id": 14
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Umbulharjo 2"
+        },
+        "geometry": {
+          "coordinates": [
+            110.38968369455105,
+            -7.800189576892145
+          ],
+          "type": "Point"
+        },
+        "id": 15
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Kotagede I"
+        },
+        "geometry": {
+          "coordinates": [
+            110.40053466254965,
+            -7.822196815906857
+          ],
+          "type": "Point"
+        },
+        "id": 16
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Kotagede 2"
+        },
+        "geometry": {
+          "coordinates": [
+            110.39467470031974,
+            -7.813680905171557
+          ],
+          "type": "Point"
+        },
+        "id": 17
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Depok 3"
+        },
+        "geometry": {
+          "coordinates": [
+            110.38951480070563,
+            -7.778296118075133
+          ],
+          "type": "Point"
+        },
+        "id": 18
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Gamping 2"
+        },
+        "geometry": {
+          "coordinates": [
+            110.33780152954296,
+            -7.783066943405187
+          ],
+          "type": "Point"
+        },
+        "id": 19
+      }
+    ]
+  }
